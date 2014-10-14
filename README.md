@@ -1,3 +1,9 @@
+
+Ecco la bozza di Internet bill of rights, ora tocca ai cittadini migliorarla.
+*Ogni pull request sarà accettata.*
+
+-------
+
 *Dichiarazione dei diritti in Internet* 
 
 **PREAMBOLO**
