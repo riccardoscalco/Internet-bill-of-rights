@@ -35,7 +35,7 @@ L’accesso comprende la libertà di scelta per quanto riguarda sistemi operativ
 
 L’effettiva tutela del diritto di accesso esige adeguati interventi pubblici per il superamento di ogni forma di divario digitale – culturale, infrastrutturale, economico – con particolare riferimento all’accessibilità delle persone con disabilità.
 
-**3. NEUTRALITA’ DELLA RETE**
+**3. NEUTRALITÀ DELLA RETE**
 Ogni persona ha il diritto che i dati che trasmette e riceve in Internet non subiscano discriminazioni, restrizioni o interferenze in relazione al mittente, ricevente, tipo o contenuto dei dati, dispositivo utilizzato, applicazioni o, in generale, legittime scelte delle persone.
 
 La neutralità della Rete, fissa e mobile, e il diritto di accesso sono condizioni necessarie per l’effettività dei diritti fondamentali della persona. Garantiscono il mantenimento della capacità generativa di Internet anche in riferimento alla produzione di innovazione. Assicurano ai messaggi e alle loro applicazioni di viaggiare online senza discriminazioni per i loro contenuti e per le loro funzioni.
