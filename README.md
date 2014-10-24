@@ -103,6 +103,8 @@ La sicurezza in rete deve essere garantita come interesse pubblico, attraverso l
 
 Non sono ammesse limitazioni della libertà di manifestazione del pensiero; deve essere garantita la tutela della dignità delle persone da abusi connessi a comportamenti negativi, quali l’incitamento all’odio, alla discriminazione e alla violenza.
 
+Ogni persona ha diritto ha strumenti che garantiscano la propria sicurezza personale, quali la segnalazione ed il blocco di profili e contenuti abusivi.
+
 **13. DIRITTO ALL’EDUCAZIONE**
 Ogni persona ha diritto di acquisire le capacità necessarie per utilizzare Internet in modo consapevole e attivo. La dimensione culturale ed educativa di Internet costituisce infatti elemento essenziale per garantire l’effettività del diritto di accesso e della tutela delle persone.
 
